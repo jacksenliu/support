@@ -12,7 +12,7 @@
 
 ## `Pico Unity SDK Demo`
 
-* [PicoVR Overlay usage example][17]
+* [Underlay Demo][17]
 * [Remote Grab][16]
 * [UI Interaction][15]
 * [Broadcast Demo][13]
